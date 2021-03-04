@@ -1,0 +1,12 @@
+name: Imagem Docker
+on:
+  [push]
+jobs:
+  push_to_registry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      - name: Push to GitHub Packages
+        run: |
+          docker build ./Desafio-NovaWeb -t contato-image
