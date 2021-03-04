@@ -9,4 +9,4 @@ jobs:
         uses: actions/checkout@v2
       - name: Push to GitHub Packages
         run: |
-          docker build ./Desafio-NovaWeb -t contato-image
+          docker build ./Desafio_Backend_Novaweb -t contato-image
