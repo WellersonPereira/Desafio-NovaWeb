@@ -1,7 +1,5 @@
 # Desafio Backend
 
-Este desafio é parte do processo seletivo para a vaga "Desenvolvedor backend" da empresa Novaweb.
-
 ## Instruções
 
 1. Implementar a solução para o problema utilizando .NET, incluindo ao menos uma carga de trabalho do github actions que publica uma imagem docker no github packages do seu repositório;
