@@ -1,6 +1,4 @@
-# Desafio Backend Novaweb
-
-Este desafio é parte do processo seletivo para a vaga "Desenvolvedor backend" da empresa Novaweb.
+# Desafio Backend
 
 ## Instruções
 
